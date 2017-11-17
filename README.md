@@ -12,7 +12,7 @@ This is a sample to show what a Rush Content Guide could look like, and to make 
 
 This guide was created by communicators across Rush to help you write, edit and speak in a way that reflects Rush’s voice and hits the right tone for your audiences.
 
-# Rush's voice
+### Rush's voice
 
 Rush’s voice expresses our personality and values. Here’s how we define it:
 
@@ -31,7 +31,7 @@ We don’t use clichés or buzzwords. Instead, we try to find a more precise way
 **Inclusive**
 Our language is respectful and welcoming to all members of our audiences.
 
-# Voice checklist
+### Voice checklist
 
 Whether you’re looking over your own work or reviewing someone else’s, ask yourself each of these questions — and make sure the answer is yes:
 
