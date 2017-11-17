@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+Rush Content Guide
 
-You can use the [editor on GitHub](https://github.com/meganemarz/style-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a sample to show what a Rush Content Guide could look like, and to make voice and tone guidelines accessible on the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
