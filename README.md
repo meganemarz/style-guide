@@ -1,4 +1,4 @@
-Rush Content Guide
+# Rush Content Guide
 
 This is a sample to show what a Rush Content Guide could look like, and to make voice and tone guidelines accessible on the web.
 
